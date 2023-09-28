@@ -4,4 +4,10 @@
 #### This is an ' < h4 > ' header.
 ##### This is an ' < h5 > ' header.
 ###### This is an ' < h6 > ' header, which is the smallest.
-![Image of MuLearn Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW2LULUDebAX4OEbxfv2_rxAla6vKCn-4rcWwj1hhH&s)
+![Image of MuLearn Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW2LULUDebAX4OEbxfv2_rxAla6vKCn-4rcWwj1hhH&)
+ ``` javascript
+var Myvar = "Mulearn My World";
+```
+```
+The above process is done in order to improve my skills.
+``` 
