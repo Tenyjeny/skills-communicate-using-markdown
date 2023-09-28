@@ -11,3 +11,7 @@ var Myvar = "Mulearn My World";
 ```
 The above process is done in order to improve my skills.
 ``` 
+- [x] Turn on Github Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Do not introduce myself to the world
